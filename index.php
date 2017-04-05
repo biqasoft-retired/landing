@@ -1,6 +1,6 @@
 <?php require_once("header-index.php"); ?>
 
-	<!-- End Banner -->
+<!-- End Banner -->
 
 <div id="clients" class="padding40 bg-grey hidden-xs" style="padding-top: 95px;  ">
     <div class="container">
@@ -199,7 +199,7 @@
                 <div class="post">
                     <div class="post-img-content" style="height: auto; !important;">
                         <!--<img src="img/crm2.jpg" class="img-responsive" />-->
-                    <span class="post-title"><b>CRM.Ведение клиента</b><br/>
+                        <span class="post-title"><b>CRM.Ведение клиента</b><br/>
                     </span>
                     </div>
                     <div class="content">
@@ -227,8 +227,8 @@
                 <div class="post">
                     <div class="post-img-content" style="height: auto; !important;">
                         <!--<img src="img/task.gif" class="img-responsive" />-->
-                    <span class="post-title"><b>Управление задачами</b><br/>
-                        <!--<b>CSS3 Blur</b>-->
+                        <span class="post-title"><b>Управление задачами</b><br/>
+                            <!--<b>CSS3 Blur</b>-->
                     </span>
                     </div>
                     <div class="content">
@@ -251,7 +251,7 @@
                 <div class="post">
                     <div class="post-img-content" style="height: auto; !important;">
                         <!--<img src="img/staff.gif" class="img-responsive" />-->
-                    <span class="post-title"><b>Сотрудники</b><br/>
+                        <span class="post-title"><b>Сотрудники</b><br/>
                     </span>
                     </div>
                     <div class="content">
@@ -439,7 +439,7 @@
                 <div class="text-center">
 
                     <a id="img_01" href="img/all-clients.png" title="Все клиенты">
-                        <img src="img/all-clients.png" class="img-responsive img-thumbnail" />
+                        <img src="img/all-clients.png" class="img-responsive img-thumbnail"/>
                     </a>
 
                 </div>
@@ -460,8 +460,6 @@
 
                 </div>
             </div>
-
-
 
 
         </div>
@@ -553,7 +551,7 @@
 
             <div class="col-md-6">
                 <a id="img_02" href="img/lead-gen-kpi.png" title="KPI неуспешной рекламной компании">
-                    <img src="img/lead-gen-kpi.png" class="img-responsive img-thumbnail" />
+                    <img src="img/lead-gen-kpi.png" class="img-responsive img-thumbnail"/>
                 </a>
             </div>
 
@@ -565,7 +563,7 @@
 
             <div class="col-md-6">
                 <a id="img_03" href="img/good-kpi.png" title="KPI успешного маркетинга">
-                    <img src="img/good-kpi.png" class="img-responsive img-thumbnail" />
+                    <img src="img/good-kpi.png" class="img-responsive img-thumbnail"/>
                 </a>
             </div>
 
@@ -658,16 +656,19 @@
                 <div class="collapse" id="collapseExample">
                     <div class="well">
                         <p>
-                            Но вымерять точную эффективность рекламы никто не может. Отсутствуют данные о полученной прибыли, ROI, CPC, LAC, CLTV и другие показатели
+                            Но вымерять точную эффективность рекламы никто не может. Отсутствуют данные о полученной
+                            прибыли, ROI, CPC, LAC, CLTV и другие показатели
                             с каждого из направлений рекламы и маркетинга.
                         </p>
 
                         <p>
-                            Маркетинг и реклама должны и могут быть измеримы. Только измеряя все показатели, можно сказать - «окупилось или нет».
+                            Маркетинг и реклама должны и могут быть измеримы. Только измеряя все показатели, можно
+                            сказать - «окупилось или нет».
                         </p>
 
                         <p>
-                            Кроме того, если рекламных компаний несколько, то сложно сказать, «а какая именно реклама эффектина». А не зная этого, возможно, что деньги сливаются впустую.
+                            Кроме того, если рекламных компаний несколько, то сложно сказать, «а какая именно реклама
+                            эффектина». А не зная этого, возможно, что деньги сливаются впустую.
                         </p>
                         <p>
                             Не измеряя результаты, больше половины от рекламного бюджета спускается на ветер.
@@ -683,7 +684,8 @@
                 <h3><i class="line-font blue icon-pie-chart"></i> Клиенты на бумажке</h3>
 
                 <p>
-                    Существует много компаний, которые до сих пор ведут клиентскую базу на бумаге, либо используя Excel или обычные CRM.
+                    Существует много компаний, которые до сих пор ведут клиентскую базу на бумаге, либо используя Excel
+                    или обычные CRM.
                 </p>
 
                 <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample1" aria-expanded="false"
@@ -703,10 +705,12 @@
                         </p>
 
                         <p>
-                            Нету сегментации клиентов, а значит невозможно автоматически предложить уникальное предложение, отдельному человеку или группе людей на основе определенных критериев
+                            Нету сегментации клиентов, а значит невозможно автоматически предложить уникальное
+                            предложение, отдельному человеку или группе людей на основе определенных критериев
                         </p>
 
-                        <p>А как известно, персонализация обращений и предложений товаров и услуг на основе предпочтений пользователей, позволяет повысить <strong>конверсию</strong>  до 10 раз!</p>
+                        <p>А как известно, персонализация обращений и предложений товаров и услуг на основе предпочтений
+                            пользователей, позволяет повысить <strong>конверсию</strong> до 10 раз!</p>
 
                     </div>
                 </div>
@@ -851,12 +855,15 @@
                             показателей самостоятельно будет очень рискованно.
                         </p>
 
-                        <p>Для этого, необходимо создать список определнных показателей (KPI), которые будут характиризовать эффективность сотрудников.</p>
+                        <p>Для этого, необходимо создать список определнных показателей (KPI), которые будут
+                            характиризовать эффективность сотрудников.</p>
                         <p>А кроме создаия, необходимо постоянно контролировать и корректировать действия.</p>
 
                         <p>
-                            Например, для отдела продаж, можно создавать автоматизированную систему (входит в biqasoft), представляющую из себя "Доску мотивации", где в режиме реального времени
-                            отображается число и сумма продаж продажников в единой таблице с сотртировкой по сумме продаж.
+                            Например, для отдела продаж, можно создавать автоматизированную систему (входит в biqasoft),
+                            представляющую из себя "Доску мотивации", где в режиме реального времени
+                            отображается число и сумма продаж продажников в единой таблице с сотртировкой по сумме
+                            продаж.
                         </p>
 
                     </div>
@@ -988,7 +995,8 @@
                         </p>
 
 
-                        <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample8" aria-expanded="false" id="collapseExample8Btn"
+                        <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample8" aria-expanded="false"
+                           id="collapseExample8Btn"
                            aria-controls="collapseExample8">
                             Подробнее
                         </a>
@@ -1498,19 +1506,6 @@
 <!-- FAQ -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--<section id="1111" class="section bg-grey  arrow-bottom">-->
 <!--<div class="container">-->
 <!--<div class="row">-->
@@ -1597,15 +1592,6 @@
 <!--</section>-->
 
 
-
-
-
-
-
-
-
-
-
 <section id="faq" class="section bg-grey  arrow-bottom">
     <div class="container">
         <div class="row">
@@ -1639,13 +1625,14 @@
                     <h4>Есть ли у системы API</h4><!-- Question -->
                     <div class="answer"><!-- Answer -->
                         <p>Да, все 100% действий, которые доступны из веб-интерфейса, вы можете совершать и через
-                            API. Тем самым, создавая возможность интегрировать любые сервисы с biqasoft и получать и аггрегировать данные для последующего анализа.</p>
+                            API. Тем самым, создавая возможность интегрировать любые сервисы с biqasoft и получать и
+                            аггрегировать данные для последующего анализа.</p>
 
                         <p>Подробнее можете <a href="https://developers.biqasoft.com/" target="_blank">посмотреть на
-                            портале для разработчиков</a></p>
+                                портале для разработчиков</a></p>
 
                         <p>кроме того <strong>существует встроенная интеграция Landing Page и иных страниц Вашего сайта
-                            с CRM системой </strong> с помощью нашего Web SDK.
+                                с CRM системой </strong> с помощью нашего Web SDK.
                             Это значит, что потребуется не более 3-х минут на то, чтобы интегрировать заявки с Вашего
                             сайта в CRM систему.
                         </p>
@@ -1664,7 +1651,8 @@
                             <a href="http://blog.biqasoft.com/" target="_blank">блог с полезными материалами</a>
                         </p>
 
-                        <p><strong> Так же, Вы можете обратиться к сторонним специалистам или нашим партнерам, либо к нашей команде по email: support@biqasoft.com </strong></p>
+                        <p><strong> Так же, Вы можете обратиться к сторонним специалистам или нашим партнерам, либо к
+                                нашей команде по email: support@biqasoft.com </strong></p>
 
                     </div>
                     <!-- End FAQ -->
@@ -1674,12 +1662,15 @@
                     <h4>Сколько стоит?</h4><!-- Question -->
                     <div class="answer"><!-- Answer -->
                         <p>
-                            Мы занимаемся разработкой и внедрением CRM, ERP и других систем для автоматизации бизнеса. Стоимость услуг Вы можете
+                            Мы занимаемся разработкой и внедрением CRM, ERP и других систем для автоматизации бизнеса.
+                            Стоимость услуг Вы можете
                             <a href="/price">посмотреть на странице с ценой</a>.
                         </p>
 
-                        <p>Кроме того, если Вам необходима более тесная интеграция с бизнесом, либо разработка дополнительных модулей и систем на заказ,
-                            то за подробностями, стоимостью и сроками можете обратиться по единому email: support@biqasoft.com </p>
+                        <p>Кроме того, если Вам необходима более тесная интеграция с бизнесом, либо разработка
+                            дополнительных модулей и систем на заказ,
+                            то за подробностями, стоимостью и сроками можете обратиться по единому email:
+                            support@biqasoft.com </p>
                     </div>
                     <!-- End FAQ -->
                 </div>
@@ -1707,6 +1698,52 @@
 <!-- End Call To Action -->
 
 
+<style>
+    .carousel-inner > .item > img,
+    .carousel-inner > .item > a > img {
+        width: 70%;
+        margin: auto;
+    }
+</style>
 
+<div class="" style="padding-top: 3px">
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                <img src="img/all-clients.png" alt="Chania" width="460" height="345">
+            </div>
+
+            <?php
+            if ($handle = opendir('./screens')) {
+                while (false !== ($entry = readdir($handle))) {
+                    if ($entry != "." && $entry != "..") {
+                        echo "<div class=\"item\"> <img src=\"screens/$entry\" alt=\"$entry\" width=\"460\" height=\"345\"></div>";
+                    }
+                }
+                closedir($handle);
+            }
+            ?>
+        </div>
+
+        <!-- Left and right controls -->
+        <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+</div>
 
 <?php require_once("footer.php"); ?>
